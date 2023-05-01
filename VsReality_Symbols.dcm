@@ -1,7 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP EncoderPinHeaderConnector_04
+D Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 $CMP FDD6685
-D DS -30V GS +/-25, P-Channel MOSFET, TO-252-2 
+D DS -30V GS +/-25, P-Channel MOSFET, TO-252-2
 K P-Channel MOSFET
 F https://www.onsemi.com/pdf/datasheet/fdd6685-d.pdf
 $ENDCMP
